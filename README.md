@@ -1,4 +1,4 @@
-# mortality-trends-analysis
+# Mortality-trends-analysis
 Understanding Mortality Trends: A Data-Driven Approach to Public Health Insights 
 
 ### 📊 WHO Mortality Database Analysis (2021–Present)
